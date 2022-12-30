@@ -10,3 +10,4 @@ Agora que já está instalado o Node e dentro da pasta do goatMAIL, vamos para a
 1° Comando: npm install<br>
 2° Comando: node goatmail.js<br>
 Agora só acompanhar o resultado no arquivo "resultados(result).txt"
+
