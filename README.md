@@ -1,5 +1,5 @@
 # Olá, eu sou o Augusto! 👋
-Antes de mais nada, gostaria de deixar claro que eu fiz essa ferramenta com o meu 💓, por favor, use essa ferramenta 
+Antes de mais nada, gostaria de deixar claro que eu fiz essa ferramenta com o meu 💓, por favor, use essa ferramenta com responsabilidade!
 # goatMAIL
 <h1>This tool serves to harvest Brazilian emails for marketing achievements! (Essa ferramenta serve para colher e-mails brasileiros para fins de marketing!)</h1>
 <img src="https://user-images.githubusercontent.com/121616883/210108254-feedaa44-4c1a-467d-902d-f80110f61db7.png">
